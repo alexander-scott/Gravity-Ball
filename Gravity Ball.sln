@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gravity Ball.CSharp", "Gravity Ball.CSharp.csproj", "{DB5C2976-1117-3BEF-8D95-860652682802}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gravity Ball.CSharp.Editor", "Gravity Ball.CSharp.Editor.csproj", "{F7DDA95A-9603-2E51-EF80-A5A6F142EDF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB5C2976-1117-3BEF-8D95-860652682802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB5C2976-1117-3BEF-8D95-860652682802}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB5C2976-1117-3BEF-8D95-860652682802}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB5C2976-1117-3BEF-8D95-860652682802}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7DDA95A-9603-2E51-EF80-A5A6F142EDF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7DDA95A-9603-2E51-EF80-A5A6F142EDF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7DDA95A-9603-2E51-EF80-A5A6F142EDF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7DDA95A-9603-2E51-EF80-A5A6F142EDF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

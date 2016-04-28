@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/GravityBall/Scenes/GravityBall.unity
+  isLoaded: 1
+  isActive: 1
